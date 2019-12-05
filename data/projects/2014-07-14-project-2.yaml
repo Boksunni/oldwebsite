@@ -1,0 +1,8 @@
+modalID: 2
+title: Project Regression and General Linear Model
+date: 2014-11-25
+img: cake.png
+client: Start Bootstrap
+clientLink: "#"
+category: Data Analysis
+description: This project uses the same TeenPregnancy and Election08 datasets from the Stat2Data package. Linear regression and general linear models were run on this dataset to predict Income per capita and to generate the probability of ObamaWin respectively. The robustness of the general linear model was tested and improved upon with the lasso regression test. [Flat Icons](//sellfy.com/p/8Q9P/jV3VZ/").

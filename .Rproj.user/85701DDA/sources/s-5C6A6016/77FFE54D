@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575582380039.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77FFE54D",
+    "lastKnownWriteTime" : 1575582779,
+    "last_content_update" : 1575582779459,
+    "path" : "~/website/data/projects/2014-07-14-project-2.yaml",
+    "project_path" : "data/projects/2014-07-14-project-2.yaml",
+    "properties" : {
+        "cursorPosition" : "7,378",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
